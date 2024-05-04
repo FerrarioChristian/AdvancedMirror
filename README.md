@@ -11,15 +11,7 @@ Il dispositivo funziona come uno specchio intelligente, sfruttando la tecnologia
 - **Gestione dei compiti giornalieri:** Fornisce accesso a calendari personali, previsioni del tempo, condizioni del traffico per percorsi di pendolarismo, orari dei mezzi pubblici e altro ancora.
 - **Display personalizzabile:** Gli utenti possono accedere a un'applicazione per smartphone per gestire i moduli visualizzati sullo specchio. Questa funzione di personalizzazione consente agli utenti di scegliere moduli in base alle proprie preferenze e aggiungere moduli aggiuntivi oltre alle opzioni predefinite, come tendenze dei mercati finanziari, notizie quotidiane e dati di fitness.
 - **Integrazione con Amazon Alexa:** Il dispositivo si integra senza soluzione di continuità con Amazon Alexa, consentendo agli utenti di controllare i dispositivi per la casa intelligente comunicando con lo specchio. Questa integrazione consente attività come accendere luci, regolare tende, controllare condizionatori d'aria, impostare allarmi e accedere a telecamere di sicurezza tramite comandi vocali o script automatizzati.
-
-**Come utilizzare:**
-
-1. Installare il dispositivo AdvancedMirror nella posizione desiderata all'interno della propria casa.
-2. Collegare il dispositivo alla rete Wi-Fi domestica.
-3. Scaricare l'applicazione per smartphone AdvancedMirror dal rispettivo store dell'app.
-4. Personalizzare i moduli visualizzati secondo le proprie preferenze utilizzando l'applicazione per smartphone.
-5. Godere dell'integrazione senza soluzione di continuità con Amazon Alexa per la gestione della casa intelligente controllata vocalmente.
-
+- 
 **Licenza:**
 
 Questo progetto è concesso in licenza sotto la [Licenza MIT](https://opensource.org/licenses/MIT).
